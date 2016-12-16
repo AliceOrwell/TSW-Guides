@@ -94,8 +94,11 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 **New York**
 
 > **String**: Inevitable Doom | show: Pod Target - @owner 
+> 
 > **Type**: Buff 
+> 
 > **Monitor recommendations**: Yourself, Raid Group, Defensive Target 
+> 
 > **Purpose**: Show's who in the raid is the pod target. Useful to set as both a raid
 > wide visualiser so you can call it out and a personal warning
 > visualiser for when you're the target. If you are the support role
@@ -108,8 +111,11 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 
 
 > **String**: From beneath*|show: Podded - @owner
+> 
 > **Type**: Buff
+> 
 > **Monitor recommendations**: Raid Group
+> 
 > **Purpose**: See who is podded. Set as raid wide. Sadly can't monitor NPCs still podded in the back.
 
 
@@ -117,8 +123,11 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 
 
 > **String**: Whisper of Darkness*|show: Whisper - @owner
+> 
 > **Type**: Buff
+> 
 > **Monitor recommendations**: Raid Group
+> 
 > **Purpose**: Monitor stacks on the tanks. If you already monitor stacks in Elite raid then you may want to update your existing string.
 
 
@@ -126,12 +135,15 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 
 
 > **String**: Gaia Incarnate - Mei Ling | show: @owner
+> 
 > **String**: Gaia Incarnate - Rose | show: @owner
+> 
 > **String**: Gaia Incarnate - Alex | show: @owner
+> 
 > **Type**: Buff
 > **Monitor recommendations**: Yourself, Raid Group
-> **Purpose**: Not particularly needed but this can used to monitor if you have the circle buff. Good for monitoring just yourself or the
-> whole raid incase someone is out of position or bugged.
+> 
+> **Purpose**: Not particularly needed but this can used to monitor if you have the circle buff. Good for monitoring just yourself or the whole raid incase someone is out of position or bugged.
 
 
 ----------
@@ -140,10 +152,15 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 **Eidolon**
 
 > **String**: Draugling's Ire
+> 
 > **String**: Deep One's Ire
+> 
 > **String**: Shade's Ire
+> 
 > **Type**: Buff
+> 
 > **Monitor recommendations**: Yourself
+> 
 > **Purpose**: Shows that you have an add spawned on you. Have the timer show so you can easily see when shades will no longer attack and thus safe for your to resume DPS.
 
 
@@ -151,18 +168,23 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 
 
 > **String**: Insanity | >5s vanish
+> 
 > **Type**: Buff
+> 
 > **Monitor recommendations**: Yourself
-> **Purpose**: Shows when you will Insanity dodge. Have the timer show so you can easily see if you will auto-dodge when shades are present
-> and thus be ready to attempt an escape.
+> 
+> **Purpose**: Shows when you will Insanity dodge. Have the timer show so you can easily see if you will auto-dodge when shades are present and thus be ready to attempt an escape.
 
 
 ----------
 
 
 > **String**: Seeping Terror|show: Terror - @owner
+> 
 > **Type**: Buff
+> 
 > **Monitor recommendations**: Raid Group
+> 
 > **Purpose**: Monitor stacks on the tanks. Same as Elite Eidolon.
 
 
@@ -170,18 +192,23 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 
 
 > **String**: Call to the Depths
+> 
 > **Type**: Cast
+> 
 > **Monitor recommendations**: Offensive Target
-> **Purpose**: Not particularly needed but it can be nice to have a jumbo castbar to more easily know when to expect the Ires buff as they
-> are applied at the end of the cast.
+> 
+> **Purpose**: Not particularly needed but it can be nice to have a jumbo castbar to more easily know when to expect the Ires buff as they are applied at the end of the cast.
 
 
 ----------
 
 
 > **String**: Call of the Abyss
+> 
 > **Type**: Cast
+> 
 > **Monitor recommendations**: Offensive Target
+> 
 > **Purpose**: A couple seconds into this cast you'll receive a random Ire buff so use this to warn yourself to stop everything.
 
 
