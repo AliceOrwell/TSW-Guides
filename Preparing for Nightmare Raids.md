@@ -94,7 +94,7 @@ With that all done your ACT should look a little like the following.
 Setting up EffectsUI
 -------
 
-For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if you'd rather only add the stuff of interest, here are some of the basic strings you may need.
+For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](EffectsUI%20Settings.txt). However, if you'd rather only add the stuff of interest, here are some of the basic strings you may need.
 
 **New York**
 
@@ -242,6 +242,7 @@ Eidolon Helper
  https://mods.curse.com/tsw-mods/tsw/eidelon_helper
 
 Eidolon Helper is a mod that will help warn you when the 2nd set of adds will appear during Blue Phase, similar to the way the ACT settings above do. As well as doing that, in Flappy NM, this mod will alert you when there is an AEGIS Eruption that matches your shield type, reminding you that you need to go stand in the circle.
+
 
 
 
