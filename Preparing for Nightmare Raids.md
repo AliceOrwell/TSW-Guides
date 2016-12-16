@@ -94,7 +94,7 @@ With that all done your ACT should look a little like the following.
 Setting up EffectsUI
 -------
 
-For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](EffectsUI%20Settings.txt). However, if you'd rather only add the stuff of interest, here are some of the basic strings you may need.
+For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](https://raw.githubusercontent.com/AliceOrwell/TSW-Guides/master/EffectsUI%20Settings.txt). However, if you'd rather only add the stuff of interest, here are some of the basic strings you may need.
 
 **New York**
 
