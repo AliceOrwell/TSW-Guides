@@ -193,13 +193,13 @@ EffectsUI Examples
 
 If you're a little uncertain how to use the strings above here's a few examples on how to set things up.
 
-Monitoring casts by your offensive target - Useful for dangerous casts  https://i.imgur.com/eyK38ib.png
-Monitoring buffs on yourself - Useful for NYR buff circle  https://i.imgur.com/IT1hHrB.png
-Monitoring debuffs on yourself - Useful for NYR pod target  https://i.imgur.com/Oya0pI8.png
-Monitoring debuffs on yourself - Useful for Eidolon debuffs  https://i.imgur.com/8XRVMd6.png
-Monitoring buffs on your raid group - Useful for seeing who has NYR buff circle  https://i.imgur.com/f8DMlfp.png
-Monitoring debuffs on your raid group - Useful for tank stacks and pod target  https://i.imgur.com/PcWGCVv.png
-Monitoring debuffs on your defensive target - Useful for support role knowing the filther is pod target  https://i.imgur.com/kHjvyVI.png
+ - Monitoring casts by your offensive target - Useful for dangerous casts  https://i.imgur.com/eyK38ib.png - 
+ - Monitoring buffs on yourself - Useful for NYR buff circle  https://i.imgur.com/IT1hHrB.png
+ - Monitoring debuffs on yourself - Useful for NYR pod target  https://i.imgur.com/Oya0pI8.png
+ - Monitoring debuffs on yourself - Useful for Eidolon debuffs  https://i.imgur.com/8XRVMd6.png
+ - Monitoring buffs on your raid group - Useful for seeing who has NYR buff circle  https://i.imgur.com/f8DMlfp.png
+ - Monitoring debuffs on your raid group - Useful for tank stacks and pod target  https://i.imgur.com/PcWGCVv.png
+ - Monitoring debuffs on your defensive target - Useful for support role knowing the filther is pod target  https://i.imgur.com/kHjvyVI.png
 
 
 ----------
