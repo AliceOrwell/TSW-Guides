@@ -1,2 +1,2 @@
 # TSW-Guides
-Guides relating The Secret World. 
+Guides relating to The Secret World. 
