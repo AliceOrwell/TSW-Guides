@@ -4,8 +4,8 @@ Guides relating to The Secret World.
 
 Structure
 ------------
-	- [EffectsUI Settings.txt](EffectsUI Settings.txt) - AliceOrwell's EffectsUI config file.
-	- [Preparing for Nightmare Raids] - Instructions on configuring ACT and EffectsUI for Nightmare Raids.
+- [EffectsUI Settings](EffectsUI%20Settings.txt) - AliceOrwell's EffectsUI config file.
+- [Preparing for Nightmare Raids](Preparing%20for%20Nightmare%20Raids.md) - Instructions on configuring ACT and EffectsUI for Nightmare Raids.
 
 Contributing
 ------------
@@ -16,3 +16,4 @@ License
 Copyright (c) 2016 AliceOrwell
 
 Software released under the MIT License. Please see the [LICENSE](LICENSE) file.
+
