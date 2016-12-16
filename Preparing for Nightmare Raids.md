@@ -18,21 +18,21 @@ These announce which NPC is pod target.
 
 Alex
 
-> &lt;Trigger R="Mouths of Montauk afflicts Alex with Inevitable Doom" SD="Pod Long Range." ST="3" CR="F" C="New York" T="T" TN="PodLongRange" Ta="F" /&gt;
-
+    <Trigger R="Mouths of Montauk afflicts Alex with Inevitable Doom" SD="Pod Long Range." ST="3" CR="F" C="New York" T="T" TN="PodLongRange" Ta="F" />
 
 Mei Ling
 
-> &lt;Trigger R="Mouths of Montauk afflicts Mei Ling with Inevitable Doom" SD="Pod Close Range." ST="3" CR="F" C="New York" T="T" TN="PodCloseRange" Ta="F" />
+    <Trigger R="Mouths of Montauk afflicts Mei Ling with Inevitable Doom" SD="Pod Close Range." ST="3" CR="F" C="New York" T="T" TN="PodCloseRange" Ta="F" />
 
 
 Rose
-> &lt;Trigger R="Mouths of Montauk afflicts Rose with Inevitable Doom" SD="Pod Mid Range." ST="3" CR="F" C="New York" T="T" TN="PodMidRange" Ta="F" />
+
+    <Trigger R="Mouths of Montauk afflicts Rose with Inevitable Doom" SD="Pod Mid Range." ST="3" CR="F" C="New York" T="T" TN="PodMidRange" Ta="F" />
 
 
 Zuberi
-> &lt;Trigger R="Mouths of Montauk afflicts Zuberi with Inevitable Doom" SD="Pod Zuberi" ST="3" CR="F" C="New York" T="T" TN="PodZuberi" Ta="F" />
 
+    <Trigger R="Mouths of Montauk afflicts Zuberi with Inevitable Doom" SD="Pod Zuberi" ST="3" CR="F" C="New York" T="T" TN="PodZuberi" Ta="F" />
 
 ----------
 
@@ -42,15 +42,18 @@ Zuberi
 These announce which Ire buff you received.
 
 Shades
-> &lt;Trigger R="Echo of the Outer Dark afflicts you with Shade's Ire" SD="Shades Here" ST="3" CR="F" C="Eidolon" T="T" TN="ShadesIre" Ta="F" />
+
+    <Trigger R="Echo of the Outer Dark afflicts you with Shade's Ire" SD="Shades Here" ST="3" CR="F" C="Eidolon" T="T" TN="ShadesIre" Ta="F" />
 
 
 Deep Ones
-> &lt;Trigger R="Frenzied Deep One afflicts you with Deep One's Ire" SD="Deep Ones Here" ST="3" CR="F" C="Eidolon" T="T" TN="DeepOnesIre" Ta="F" />
+
+    <Trigger R="Frenzied Deep One afflicts you with Deep One's Ire" SD="Deep Ones Here" ST="3" CR="F" C="Eidolon" T="T" TN="DeepOnesIre" Ta="F" />
 
 
 Drauglings
-> &lt;Trigger R="Parasitic Draugling afflicts you with Draugling's Ire" SD="Drawglings Here" ST="3" CR="F" C="Eidolon" T="T" TN="DrauglingsIre" Ta="F" />
+
+    <Trigger R="Parasitic Draugling afflicts you with Draugling's Ire" SD="Drawglings Here" ST="3" CR="F" C="Eidolon" T="T" TN="DrauglingsIre" Ta="F" />
 
 
 ----------
@@ -63,15 +66,17 @@ These will announce ahead of time when the next set of adds will appear. Dependi
 Add the next set of code snippets in the same way as above, however, note that to check they were added correctly you will need to open your "Spell Timers (Options)" window. This is done by clicking the "Show Timers" button at the top right of the ACT window. A blank window titled "Spell Timers" will appear. Right click inside that window to reveal the "Spell Timers (Options)" window.
 
 Deep Ones
-> &lt;Spell N="DeepOnesIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Deep Ones Soon" />
 
+    <Spell N="DeepOnesIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Deep Ones Soon" />
 
 Drauglings
-> &lt;Spell N="DrauglingsIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Drawglings soon" />
+
+    <Spell N="DrauglingsIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Drawglings soon" />
 
 
 Shades
-> &lt;Spell N="ShadesIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Shades Soon" />
+
+    <Spell N="ShadesIre" T="55" OM="F" R="F" A="F" WV="9" RD="T" M="T" Tt="" FC="-16776961" RV="0" C="Eidolon" RC="F" SS="" WS="tts Shades Soon" />
 
 
 ----------
@@ -208,7 +213,6 @@ For the lazy setup grab a copy of Alice Orwell's EffectsUI settings. However, if
 > **Type**: Cast
 > 
 > **Monitor recommendations**: Offensive Target
-> 
 > **Purpose**: A couple seconds into this cast you'll receive a random Ire buff so use this to warn yourself to stop everything.
 
 
@@ -238,3 +242,6 @@ Eidolon Helper
  https://mods.curse.com/tsw-mods/tsw/eidelon_helper
 
 Eidolon Helper is a mod that will help warn you when the 2nd set of adds will appear during Blue Phase, similar to the way the ACT settings above do. As well as doing that, in Flappy NM, this mod will alert you when there is an AEGIS Eruption that matches your shield type, reminding you that you need to go stand in the circle.
+
+
+
