@@ -104,12 +104,7 @@ For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](https://ra
 > 
 > **Monitor recommendations**: Yourself, Raid Group, Defensive Target 
 > 
-> **Purpose**: Show's who in the raid is the pod target. Useful to set as both a raid
-> wide visualiser so you can call it out and a personal warning
-> visualiser for when you're the target. If you are the support role
-> then you may wish to create an addiational visualiser that will allow
-> you to see a warning when your defensive target gets the debuff so you
-> know if you need to go out.
+> **Purpose**: Shows who in the raid is the pod target. Useful to set as both a raid wide visualiser so you can call it out and a personal warning visualiser for when you're the target. If you are the support role then you may wish to create an additional visualiser that will allow you to see a warning when your defensive target gets the debuff so you know if you need to go out.
 
 
 ----------
