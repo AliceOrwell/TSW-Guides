@@ -141,6 +141,7 @@ For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](https://ra
 > **String**: Gaia Incarnate - Alex | show: @owner
 > 
 > **Type**: Buff
+>
 > **Monitor recommendations**: Yourself, Raid Group
 > 
 > **Purpose**: Not particularly needed but this can used to monitor if you have the circle buff. Good for monitoring just yourself or the whole raid incase someone is out of position or bugged.
