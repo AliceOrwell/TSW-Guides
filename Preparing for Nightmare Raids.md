@@ -128,7 +128,7 @@ For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](https://ra
 > 
 > **Monitor recommendations**: Raid Group
 > 
-> **Purpose**: Monitor stacks on the tanks. If you already monitor stacks in Elite raid then you may want to update your existing string.
+> **Purpose**: Monitor stacks on the tanks. If you already monitor stacks in Elite raid then you'll need to update your existing string.
 
 
 ----------
@@ -208,6 +208,7 @@ For the lazy setup grab a copy of Alice Orwell's [EffectsUI Settings](https://ra
 > **Type**: Cast
 > 
 > **Monitor recommendations**: Offensive Target
+>
 > **Purpose**: A couple seconds into this cast you'll receive a random Ire buff so use this to warn yourself to stop everything.
 
 
